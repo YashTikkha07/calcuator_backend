@@ -6,7 +6,7 @@ It responds to mathematical calculations via URL. Developed for kalvium assessme
 1. Clone the repository.
    
    ```
-   git clone https://github.com/yashgangwar7558/Calculator_server_backend
+   git clone https://github.com/YashTikkha07/calcuator_backend.git
    ```
 2. Install dependencies using `npm install`.
 3. Set your MongoDB connection URL in the `.env` file.
